@@ -1,4 +1,5 @@
-# Библиотеки
+# Список статей и материалов по WebGL с моего доклада
+## Библиотеки
 [BABYLON.JS](https://www.babylonjs.com/)
 
 [three.js](https://threejs.org/)
@@ -11,14 +12,14 @@
 
 [MapBox](https://www.mapbox.com/)
 
-# Демо и эксперименты
+## Демо и эксперименты
 [GLSL sandbox](http://glslsandbox.com/)
 
 [Shadertoy](https://www.shadertoy.com/)
 
 [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome)
 
-# Доклады
+## Доклады
 [Next-Generation 3D Graphics on the Web (Google I/O ’19)](https://www.youtube.com/watch?v=K2JzIUIHIhc)
 
 [Денис Радин.UI компоненты на пиксельных шейдерах в Web](https://www.youtube.com/watch?v=HAM6dB22dm4)
@@ -29,13 +30,13 @@
 
 [Самый низкий уровень: пишем на WebGL и WebAssembly без фреймворков и транскомпиляторов/ А.Хлыновский](https://www.youtube.com/watch?v=hTeMaNKNWxo)
 
-# Онлайн книги WebGL/GLSL
+## Онлайн книги WebGL/GLSL
 
 [Основы WebGL](https://webglfundamentals.org/webgl/lessons/ru/webgl-fundamentals.html)
 
 [The Book of Shaders](https://thebookofshaders.com/?lan=ru)
 
-# Книги WebGL/GLSL
+## Книги WebGL/GLSL
 
 [Hands-On Game Development with WebAssembly - 2019](https://www.amazon.com/Hands-Game-Development-WebAssembly-programming/dp/1838644652?tag=uuid10-20)
 
